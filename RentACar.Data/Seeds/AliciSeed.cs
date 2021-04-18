@@ -22,22 +22,22 @@ namespace RentACar.Data.Seeds
                   new Alici
                   {
                       AliciID = 2,
-                      Ad = "Necdet",
-                      Soyad = "Uygur",
+                      Ad = "Kenan",
+                      Soyad = "Atmaca",
                       TCKimlikNo = "11111111110",
-                      CepTel = "05462253671",
-                      Mail = "necdet.uygur@gmail.com",
-                      Adres = "Yeşilyurt İzmir"
+                      CepTel = "05",
+                      Mail = "kenanatmaca123@gmail.com",
+                      Adres = "Göztepe İzmir"
                   },
                     new Alici
                     {
                         AliciID = 3,
-                        Ad = "Ömer",
-                        Soyad = "Dağdeviren",
+                        Ad = "Fıstık",
+                        Soyad = "Alper",
                         TCKimlikNo = "44444444440",
-                        CepTel = "05465675080",
-                        Mail = "omerdgdvrn21@gmail.com",
-                        Adres = "Bornova İzmir"
+                        CepTel = "33",
+                        Mail = "fistikalper15@gmail.com",
+                        Adres = "Göztepe İzmir"
                     }
             );
         }

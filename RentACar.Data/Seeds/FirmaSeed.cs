@@ -21,19 +21,19 @@ namespace RentACar.Data.Seeds
                 new Firma
                 {
                     FirmaID = 2,
-                    Unvan = "Uygurs",
+                    Unvan = "Fistiks",
                     Telefon = "0326569",
-                    Mail = "uygurs@me.com",
-                    Adres = "Yeşilyurt",
-                    VergiNo = "Y125"
+                    Mail = "fistik@gmail.com",
+                    Adres = "Göztepe",
+                    VergiNo = "F125"
                 },
                  new Firma
                  {
                      FirmaID = 3,
-                     Unvan = "Dagdevirens",
+                     Unvan = "Atmacas",
                      Telefon = "0789542",
-                     Mail = "dagdeviren@dagdeviren.com",
-                     Adres = "Bornova",
+                     Mail = "atmaca@gmail.com",
+                     Adres = "Göztepe",
                      VergiNo = "D567"
                  }
             );
